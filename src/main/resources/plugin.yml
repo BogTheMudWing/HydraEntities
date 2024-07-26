@@ -1,0 +1,5 @@
+name: HydraEntities
+version: '${project.version}'
+main: io.github.stonley890.hydraentities.HydraEntities
+api-version: '1.20'
+load: STARTUP
